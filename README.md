@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Pokédex - Projet JavaScript
 
 Ce projet est un Pokédex interactif réalisé en JavaScript vanilla. Il permet d'afficher les informations des Pokémon en temps réel grâce à l'API publique [PokéAPI](https://pokeapi.co/).
