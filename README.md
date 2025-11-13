@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Pokédex - Projet JavaScript
 
 Ce projet est un Pokédex interactif réalisé en JavaScript vanilla. Il permet d'afficher les informations des Pokémon en temps réel grâce à l'API publique [PokéAPI](https://pokeapi.co/).
@@ -43,3 +44,6 @@ Date limite : 15 novembre
 
 1. Clone le dépôt 
    bash: git clone https://github.com/TON_UTILISATEUR/pokedex.git
+=======
+# pokedex
+>>>>>>> 0f17bed38c7abbda75f21067d0b792ca9dd9f03a
