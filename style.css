@@ -1,0 +1,84 @@
+body {
+  font-family: Arial;;
+  text-align: center;
+  background-color: #347ab0;
+  padding: 200px;
+}
+
+#app {
+ 
+  margin: auto;
+  background-color: #81c784;
+  padding: 20px;
+  border-radius: 20px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+#pokemonId {
+  font-size: 18px;
+  margin-bottom: 10px;
+  font-weight: bold;
+  display: inline-block;
+  padding: 5px 10px;
+  border-radius: 10px 10px;
+  background-color: #3171b9;
+  font-weight:  bold;
+  color: #b1bcc9;
+
+}
+
+.loading {
+  font-weight: bold;
+  margin-bottom: 10px;
+  display: none;
+  color: #3171b9;
+background-color: bisque;
+}
+
+#pokemonImage {
+  width: 200px;
+  height: 200px;
+  object-fit: contain;
+}
+#pokemonName {
+  font-size: 20px;
+  font-weight: bold;
+  margin: 10px 0;
+  text-transform: capitalize;
+  color: #c75619;
+}
+#pokemonInfo {
+  margin-top: 10px;
+}
+
+#pokemonTypes {
+  margin-top: 30px;
+  background-color: #3171b9;
+  border-radius: 10px;
+  
+
+}
+
+.type-badge {
+  display: inline-block;
+  margin: 5px;
+  padding: 5px 10px;
+  border-radius: 3px 10px;
+  background-color: bisque;
+  font-weight:  bold;
+
+}
+
+.button-container {
+  margin-top: 20px;
+}
+
+button {
+  padding: 10px 20px;
+  margin: 0 10px;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 10px;
+background-color: rgb(143, 32, 134);
+color: #ffffff;
+font-weight: bold;
+}
