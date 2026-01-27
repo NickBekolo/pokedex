@@ -34,8 +34,7 @@ Ce projet est un Pokédex interactif réalisé en JavaScript vanilla. Il permet 
 
 ## Auteur 
 
-**Nick celestin Bekolo Abada**  
-Projet réalisé dans le cadre du TP JavaScript - Pokédex  
+**Nick celestin Bekolo Abada**    
 Date limite : 15 novembre
 
 ---
